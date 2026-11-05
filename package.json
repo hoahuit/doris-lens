@@ -1,0 +1,9 @@
+{
+  "name": "doris-lens-website-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix doris-lens-react run dev",
+    "build": "npm --prefix doris-lens-react run build",
+    "preview": "npm --prefix doris-lens-react run preview"
+  }
+}
